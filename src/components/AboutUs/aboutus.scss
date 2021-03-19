@@ -1,0 +1,40 @@
+
+.aboutusContainer
+{
+    background-color: rgb(199, 245, 247);
+    height: auto;
+    padding-bottom: 1px;
+    .container {
+    border-radius: 15px;
+    //padding-bottom: 20px;
+    background-size: 100% 100%;
+    //background-image: url("https://www.technixmw.com/wp-content/uploads/2020/06/e-learning-system.jpeg");
+    background-image: url("http://www.onlinemarketinginstitute.org/wp-content/uploads/2013/06/increase_roi.jpg");
+    background-repeat: no-repeat;
+    height: auto;
+   filter: opacity(0.9) drop-shadow(0 0 0 rgb(231, 239, 240));
+   //filter:invert(48%) sepia(13%) saturate(07%) hue-rotate(10deg) brightness(95%) contrast(90%) invert(98%);
+    }
+}
+.aboutUsText
+{
+    color: black;
+    padding-top: 20px;
+    border-bottom: 3px solid black;
+    width: 100%;
+
+    
+}
+.aboutUsText:hover {
+    border-bottom: 4px solid black;
+    cursor: pointer;
+}
+
+.aboutusText {
+    padding-bottom: 40px;
+    font-size: 2vmax;
+    font-weight:normal;
+    text-align:justify;
+    justify-content: center;
+    color: black;
+}

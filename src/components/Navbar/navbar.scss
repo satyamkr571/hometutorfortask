@@ -1,0 +1,21 @@
+.navbarDesign {
+    font-size: 20px;
+    padding: 7px;
+    font-weight: bold;
+    
+}
+.navbar-brand {
+    font-size: 24px;
+}
+
+.nav-linknav:hover {  
+    color: white;
+    border-radius: 8px;
+    border-bottom:3px solid rgb(7, 87, 76);
+    padding: 5px;
+    cursor: pointer;
+}
+
+.navUl {
+float: right;
+}

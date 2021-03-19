@@ -1,0 +1,45 @@
+.serviceBox {
+    background-color: rgb(220, 243, 243);
+    top: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.serviceContainer {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+
+
+.serviceText {
+    color: black;
+    padding-top: 20px;
+    border-bottom: 3px solid black;
+}
+
+.serviceText:hover {
+    border-bottom: 4px solid black;
+    cursor: pointer;
+}
+
+.serviceSubContainer {
+    position: relative;
+    padding: 10px;
+}
+
+.card-containers {
+    width: 300px;
+    text-align:justify;
+    justify-content: center;
+    h3 {
+     text-align: center;
+    }
+}
+
+.card-containers:hover {
+    box-shadow: 0px 0px 15px 0px #000000;
+    cursor: pointer;
+}

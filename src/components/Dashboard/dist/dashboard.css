@@ -1,0 +1,35 @@
+.rowBg {
+  background-image: url("../../assets/bg_img_3.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: auto;
+  padding: 0px;
+  margin: 0px;
+}
+
+.propImg {
+  width: 50%;
+  height: auto;
+  float: right;
+}
+
+.dashboardCard {
+  margin-top: 2%;
+  background-color: transparent;
+  border: 0px solid gray;
+  margin-left: 2%;
+}
+
+.aboutUs {
+  font-size: 3vw;
+  font-family: "Trbuchet MS";
+  font-weight: bold;
+  color: white;
+}
+
+.higlight {
+  font-size: 3vw;
+  font-family: cursive;
+  font-weight: bolder;
+  color: #93d6d6;
+}
